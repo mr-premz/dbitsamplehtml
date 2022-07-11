@@ -1,1 +1,1 @@
-# HTML preview for tech institute.
+# html web template
